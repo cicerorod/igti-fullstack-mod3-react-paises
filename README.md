@@ -8,6 +8,13 @@ Projeto para consumir API com informações de paises e retornar a população d
   <img src="https://github.com/cicerorod/igti-fullstack-mod3-react-paises/blob/master/img/tela.PNG">
 </p>
 
+
+
+## ![](https://img.icons8.com/ios-glyphs/20/000000/api.png)  API utilizada para consumo dos dados 
+
+`<link>` : <https://restcountries.eu/rest/v2/all>
+
+
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
 1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod3-react-paises.git`
