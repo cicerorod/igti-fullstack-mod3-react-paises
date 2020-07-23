@@ -36,7 +36,7 @@ Projeto para consumir API com informações de paises e retornar a população d
 
 ## ![](https://img.icons8.com/windows/20/000000/regular-document.png) Licença
 
-Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/[Repo]/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/[Repo][repo]/blob/master/LICENSE) para obter mais informações.
 
 ## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
 
