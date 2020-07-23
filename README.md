@@ -28,7 +28,7 @@ Projeto para consumir API com informações de paises e retornar a população d
 
 ## ![](https://img.icons8.com/ios-glyphs/20/000000/pull-request.png) Contribuições
 
-1. Faça o _fork_ do projeto (<[Repo][repo]/fork>)
+1. Faça o _fork_ do projeto (<[repo]/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/[nome]`)
 3. Faça o _commit_ (`git commit -am 'Add files [nome]'`)
 4. _Push_ (`git push origin feature/[nome]`)
