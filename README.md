@@ -55,4 +55,4 @@ Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/
   
 </p>
 
-[Repo][repo](igti-fullstack-mod3-react-paises)
+[Repo]: igti-fullstack-mod3-react-paises
