@@ -20,10 +20,13 @@ Projeto para consumir API com informações de paises e retornar a população d
 
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Recursos utilizados:
 
+- **[ReactJS](https://reactjs.org/)**
+- **[React Dom](https://www.npmjs.com/package/react-dom)**
 - **[HTML](https://www.w3schools.com/html/)**
 - **[JavaScript](https://www.w3schools.com/js/)**
 - **[CSS](https://www.w3schools.com/Css/)**
-- **[ReactJS](https://reactjs.org/)**
+- **[Materialize-css](https://materializecss.com/)** 
+- **[ES6+](https://www.w3schools.com/Js/js_es6.asp)**
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=hackingcarreira_wmc-github-gllemos)**
 
 ## ![](https://img.icons8.com/ios-glyphs/20/000000/pull-request.png) Contribuições
@@ -36,7 +39,7 @@ Projeto para consumir API com informações de paises e retornar a população d
 
 ## ![](https://img.icons8.com/windows/20/000000/regular-document.png) Licença
 
-Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/[Repo][repo]/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/igti-fullstack-mod3-react-paises/blob/master/LICENSE) para obter mais informações.
 
 ## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
 
