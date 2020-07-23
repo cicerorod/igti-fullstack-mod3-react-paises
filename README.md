@@ -28,7 +28,7 @@ Projeto para consumir API com informações de paises e retornar a população d
 
 ## ![](https://img.icons8.com/ios-glyphs/20/000000/pull-request.png) Contribuições
 
-1. Faça o _fork_ do projeto (<[repo]/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/cicerorod/igti-fullstack-mod3-react-paises/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/[nome]`)
 3. Faça o _commit_ (`git commit -am 'Add files [nome]'`)
 4. _Push_ (`git push origin feature/[nome]`)
@@ -49,15 +49,14 @@ Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/
 [![](https://img.icons8.com/metro/26/000000/email.png)](mailto:cicerorod@gmail.com)
 
 
-Teste [Node.js][nodejs] + [Yarn][yarn]
-
 <p align="center">
   <img src="https://img.icons8.com/wired/32/000000/icons8-new-logo.png" >
   </br>
   <a href="https://icons8.com/icon/">Icons by Icons8</a>
   
 </p>
-
+<!--
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
 [repo]:https://github.com/cicerorod/igti-fullstack-mod3-react-paises
+-->
