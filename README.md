@@ -1,6 +1,6 @@
-# Informações de Países e sua população ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+# Países e sua população ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
-Projeto para consumir API com informações de paises e retornar a população do mesmo. Desenvolvido React no bootcamp fullstack da IGTI.
+Projeto para consumir API com informações de paises e retornar a população do mesmo. Desenvolvido com React no bootcamp fullstack da IGTI.
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página
 
